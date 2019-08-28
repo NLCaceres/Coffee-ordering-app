@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">A7</string>
+    <string name="order_coffee_title">Order fresh brewed coffee</string>
+    <string name="customer_Name_Prompt">Order for:</string>
+    <string name="size_Coffee">Size</string>
+    <string name="small_Radio_Button">Small</string>
+    <string name="medium_Radio_Button">Medium</string>
+    <string name="large_Radio_Button">Large</string>
+    <string name="brew_Coffee">Brew</string>
+    <string name="sugar_Coffee">Sugar</string>
+    <string name="milk_Coffee">Milk</string>
+    <string name="special_Instructions">Special Instructions</string>
+    <string name="load_Favorite">Load Favorite</string>
+    <string name="favorite_loaded">Your favorite has been loaded!</string>
+    <string name="save_Favorite">Save Favorite</string>
+    <string name="favorite_saved">Your favorite has been saved!</string>
+    <string name="order_button">Order</string>
+    <string name="clear_button">Clear</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="check_order">Is your order correct?</string>
+    <string name="confirm_toast">Thank you for your order! It\'ll be ready soon!</string>
+    <string name="cancel_toast">Not the right order? Please correct any info here</string>
+</resources>

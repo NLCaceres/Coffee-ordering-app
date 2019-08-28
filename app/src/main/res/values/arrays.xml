@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brew_Array">
+        <item>Kona</item>
+        <item>Turkish</item>
+        <item>Vietnamese</item>
+        <item>French</item>
+        <item>Arabica</item>
+    </string-array>
+
+</resources>
